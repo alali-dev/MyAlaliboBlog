@@ -1,0 +1,1 @@
+A tutorial corresponding to the Django tutorial for version 1.7
